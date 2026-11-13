@@ -42,21 +42,21 @@ PROJECTS = [
          desc="Offline-first PWA that plans the day's Algerian meals from the ingredients at home. "
               "100+ dishes, weekly planner, WhatsApp shopping list.",
          tags=["JavaScript", "PWA", "Service Worker", "RTL"], cta="Live demo"),
-    dict(slug="task-manager", color="blue", label="PRODUCTIVITY · ZERO DEPENDENCIES",
-         title="Notion-style Task Manager",
-         desc="Board, list, table and calendar views with drag and drop, plus a local "
-              "assistant that understands dates like “next friday”.",
-         tags=["JavaScript", "HTML5", "CSS3", "Vercel"], cta="Live demo"),
+    dict(slug="depot-monitor", color="rose", label="DATA · AUTOMATION",
+         title="depot-change-monitor",
+         desc="Read-only change monitoring for a warehouse database: Python agent with an "
+              "offline queue, FastAPI ingest API, live dashboard. Tested on SQL Server.",
+         tags=["Python", "FastAPI", "SQL Server", "Docker"], cta="View the code"),
     dict(slug="unet-fpga", color="purple", label="EDGE AI · EMBEDDED",
          title="U-Net on FPGA",
          desc="Retinal image segmentation trained in TensorFlow/Keras and deployed "
               "on a Xilinx PYNQ-Z2 board (CDTA research internship).",
          tags=["TensorFlow", "Keras", "Python", "PYNQ-Z2"], cta="Read the write-up"),
-    dict(slug="portfolio", color="rose", label="WEB · NODE.JS",
-         title="techbytahar — Portfolio",
-         desc="Personal site with project write-ups and an Express backend for the "
-              "contact form, deployed on Vercel.",
-         tags=["HTML/CSS", "JavaScript", "Node.js", "Express"], cta="Visit the site"),
+    dict(slug="task-manager", color="blue", label="PRODUCTIVITY · ZERO DEPENDENCIES",
+         title="Notion-style Task Manager",
+         desc="Board, list, table and calendar views with drag and drop, plus a local "
+              "assistant that understands dates like “next friday”.",
+         tags=["JavaScript", "HTML5", "CSS3", "Vercel"], cta="Live demo"),
 ]
 
 STACK = [

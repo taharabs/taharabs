@@ -26,14 +26,14 @@ I'm an IT engineer who writes software. At **SARL RAMOS**, a printing company in
 
 <p>
   <a href="https://taharabs.github.io/wach-ntayab/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-wach-ntayab-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-wach-ntayab-light.svg" width="49%" alt="What should we cook today? Offline-first PWA for Algerian meal planning"></picture></a>
-  <a href="https://task-manager-snowy-two.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-task-manager-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-task-manager-light.svg" width="49%" alt="Notion-style Task Manager with four views and a local assistant"></picture></a>
+  <a href="https://github.com/taharabs/depot-change-monitor"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-depot-monitor-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-depot-monitor-light.svg" width="49%" alt="depot-change-monitor: read-only change monitoring for a warehouse database, with a Python agent, FastAPI API and live dashboard"></picture></a>
 </p>
 <p>
   <a href="https://techbytahar.vercel.app/UNet.html"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-unet-fpga-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-unet-fpga-light.svg" width="49%" alt="U-Net retinal image segmentation deployed on a PYNQ-Z2 FPGA"></picture></a>
-  <a href="https://techbytahar.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-portfolio-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-portfolio-light.svg" width="49%" alt="techbytahar portfolio site with Express backend"></picture></a>
+  <a href="https://task-manager-snowy-two.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-task-manager-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-task-manager-light.svg" width="49%" alt="Notion-style Task Manager with four views and a local assistant"></picture></a>
 </p>
 
-<sub>Source code: <a href="https://github.com/taharabs/wach-ntayab">wach-ntayab</a> · <a href="https://github.com/taharabs/task-manager">task-manager</a> · <a href="https://github.com/taharabs/site">site</a></sub>
+<sub>Source code: <a href="https://github.com/taharabs/depot-change-monitor">depot-change-monitor</a> · <a href="https://github.com/taharabs/wach-ntayab">wach-ntayab</a> · <a href="https://github.com/taharabs/task-manager">task-manager</a> · <a href="https://github.com/taharabs/site">site</a></sub>
 
 ### Experience
 
@@ -55,7 +55,8 @@ I'm an IT engineer who writes software. At **SARL RAMOS**, a printing company in
 
 ### Right now
 
-- **Building:** `depot-change-monitor`, a read-only change capture from SQL Server to a FastAPI cloud API, with an offline queue
+- **Just shipped:** [`depot-change-monitor`](https://github.com/taharabs/depot-change-monitor), read-only change capture from SQL Server to a FastAPI API, with an offline queue
+- **Building next:** `unet-retinal-fpga`, the training and FPGA deployment code behind my U-Net project
 - **Certifying:** Microsoft AZ-104 (Azure Administrator), then PL-300 and RHCSA
 - **Learning:** Zabbix monitoring
 - **Completed:** Anthropic courses on the Model Context Protocol, *Claude Code in Action* and *Claude Code 101*
