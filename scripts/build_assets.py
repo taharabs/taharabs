@@ -41,7 +41,7 @@ PROJECTS = [
          title="depot-change-monitor",
          desc="Read-only change monitoring for a warehouse database: Python agent with an "
               "offline queue, FastAPI ingest API, live dashboard. Tested on SQL Server.",
-         tags=["Python", "FastAPI", "SQL Server", "Docker"], cta="View the code"),
+         tags=["Python", "FastAPI", "SQL Server", "Docker"], cta="Live demo"),
     dict(slug="it-toolkit", color="blue", label="POWERSHELL · SYSADMIN",
          title="it-automation-toolkit",
          desc="PowerShell module for Windows admin work: AD onboarding and offboarding, "

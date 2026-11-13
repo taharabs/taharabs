@@ -25,7 +25,7 @@ I'm an IT engineer who writes software. At **SARL RAMOS**, a printing company in
 ### Featured work
 
 <p>
-  <a href="https://github.com/taharabs/depot-change-monitor"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-depot-monitor-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-depot-monitor-light.svg" width="49%" alt="depot-change-monitor: read-only change monitoring for a warehouse database, with a Python agent, FastAPI API and live dashboard"></picture></a>
+  <a href="https://depot-change-monitor.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-depot-monitor-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-depot-monitor-light.svg" width="49%" alt="depot-change-monitor: read-only change monitoring for a warehouse database, with a Python agent, FastAPI API and live dashboard (opens the live demo)"></picture></a>
   <a href="https://github.com/taharabs/it-automation-toolkit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-it-toolkit-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-it-toolkit-light.svg" width="49%" alt="it-automation-toolkit: PowerShell module for AD onboarding and offboarding, disk, backup and network checks, with HTML reports"></picture></a>
 </p>
 <p>
