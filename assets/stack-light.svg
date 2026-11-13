@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="312" viewBox="0 0 830 312" role="img" aria-label="Tech stack: Languages: Python, JavaScript, C / C++, PowerShell, SQL, HTML / CSS; Backend &amp; web: FastAPI, Django, Node.js, Express, React, REST APIs; Data: SQL Server, PostgreSQL, MySQL, MongoDB, Oracle, SQLite; Infrastructure: Windows Server, Active Directory / GPO, Linux, VMware ESXi, Proxmox, Docker, Git; Network &amp; monitoring: TCP/IP · LAN/WAN, Wireshark, PRTG, Zabbix (learning); AI &amp; embedded: TensorFlow, Keras, Computer vision, FPGA · PYNQ-Z2" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Noto Sans&#x27;, Inter, Helvetica, Arial, sans-serif">
+<title>Tech stack: Languages: Python, JavaScript, C / C++, PowerShell, SQL, HTML / CSS; Backend &amp; web: FastAPI, Django, Node.js, Express, React, REST APIs; Data: SQL Server, PostgreSQL, MySQL, MongoDB, Oracle, SQLite; Infrastructure: Windows Server, Active Directory / GPO, Linux, VMware ESXi, Proxmox, Docker, Git; Network &amp; monitoring: TCP/IP · LAN/WAN, Wireshark, PRTG, Zabbix (learning); AI &amp; embedded: TensorFlow, Keras, Computer vision, FPGA · PYNQ-Z2</title>
+<rect x="0.5" y="0.5" width="829" height="311" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<circle cx="28" cy="33" r="4" fill="#7c3aed"/>
+<text x="40" y="37.5" font-size="13" font-weight="600" fill="#1f2328">Languages</text>
+<rect x="208.7" y="20" width="67.2" height="26" rx="13.0" fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-opacity="0.45"/><text x="242.3" y="37.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Python</text>
+<rect x="283.9" y="20" width="90.2" height="26" rx="13.0" fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-opacity="0.45"/><text x="329.0" y="37.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">JavaScript</text>
+<rect x="382.1" y="20" width="71.6" height="26" rx="13.0" fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-opacity="0.45"/><text x="417.8" y="37.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">C / C++</text>
+<rect x="461.6" y="20" width="93.5" height="26" rx="13.0" fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-opacity="0.45"/><text x="508.4" y="37.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">PowerShell</text>
+<rect x="563.1" y="20" width="48.5" height="26" rx="13.0" fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-opacity="0.45"/><text x="587.4" y="37.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">SQL</text>
+<rect x="619.6" y="20" width="99.6" height="26" rx="13.0" fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-opacity="0.45"/><text x="669.4" y="37.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">HTML / CSS</text>
+<line x1="20" y1="54" x2="810" y2="54" stroke="#d0d7de" stroke-opacity="0.6"/>
+<circle cx="28" cy="73" r="4" fill="#2563eb"/>
+<text x="40" y="77.5" font-size="13" font-weight="600" fill="#1f2328">Backend &amp; web</text>
+<rect x="208.7" y="60" width="70.6" height="26" rx="13.0" fill="#2563eb" fill-opacity="0.10" stroke="#2563eb" stroke-opacity="0.45"/><text x="244.0" y="77.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">FastAPI</text>
+<rect x="287.3" y="60" width="67.0" height="26" rx="13.0" fill="#2563eb" fill-opacity="0.10" stroke="#2563eb" stroke-opacity="0.45"/><text x="320.8" y="77.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Django</text>
+<rect x="362.3" y="60" width="70.9" height="26" rx="13.0" fill="#2563eb" fill-opacity="0.10" stroke="#2563eb" stroke-opacity="0.45"/><text x="397.8" y="77.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Node.js</text>
+<rect x="441.3" y="60" width="73.0" height="26" rx="13.0" fill="#2563eb" fill-opacity="0.10" stroke="#2563eb" stroke-opacity="0.45"/><text x="477.8" y="77.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Express</text>
+<rect x="522.3" y="60" width="58.3" height="26" rx="13.0" fill="#2563eb" fill-opacity="0.10" stroke="#2563eb" stroke-opacity="0.45"/><text x="551.4" y="77.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">React</text>
+<rect x="588.6" y="60" width="88.6" height="26" rx="13.0" fill="#2563eb" fill-opacity="0.10" stroke="#2563eb" stroke-opacity="0.45"/><text x="632.9" y="77.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">REST APIs</text>
+<line x1="20" y1="94" x2="810" y2="94" stroke="#d0d7de" stroke-opacity="0.6"/>
+<circle cx="28" cy="113" r="4" fill="#16a34a"/>
+<text x="40" y="117.5" font-size="13" font-weight="600" fill="#1f2328">Data</text>
+<rect x="208.7" y="100" width="94.4" height="26" rx="13.0" fill="#16a34a" fill-opacity="0.10" stroke="#16a34a" stroke-opacity="0.45"/><text x="255.9" y="117.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">SQL Server</text>
+<rect x="311.1" y="100" width="97.7" height="26" rx="13.0" fill="#16a34a" fill-opacity="0.10" stroke="#16a34a" stroke-opacity="0.45"/><text x="359.9" y="117.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">PostgreSQL</text>
+<rect x="416.8" y="100" width="68.5" height="26" rx="13.0" fill="#16a34a" fill-opacity="0.10" stroke="#16a34a" stroke-opacity="0.45"/><text x="451.0" y="117.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">MySQL</text>
+<rect x="493.3" y="100" width="85.1" height="26" rx="13.0" fill="#16a34a" fill-opacity="0.10" stroke="#16a34a" stroke-opacity="0.45"/><text x="535.8" y="117.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">MongoDB</text>
+<rect x="586.4" y="100" width="63.9" height="26" rx="13.0" fill="#16a34a" fill-opacity="0.10" stroke="#16a34a" stroke-opacity="0.45"/><text x="618.4" y="117.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Oracle</text>
+<rect x="658.3" y="100" width="64.1" height="26" rx="13.0" fill="#16a34a" fill-opacity="0.10" stroke="#16a34a" stroke-opacity="0.45"/><text x="690.4" y="117.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">SQLite</text>
+<line x1="20" y1="134" x2="810" y2="134" stroke="#d0d7de" stroke-opacity="0.6"/>
+<circle cx="28" cy="153" r="4" fill="#e11d48"/>
+<text x="40" y="157.5" font-size="13" font-weight="600" fill="#1f2328">Infrastructure</text>
+<rect x="208.7" y="140" width="127.2" height="26" rx="13.0" fill="#e11d48" fill-opacity="0.10" stroke="#e11d48" stroke-opacity="0.45"/><text x="272.2" y="157.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Windows Server</text>
+<rect x="343.8" y="140" width="165.9" height="26" rx="13.0" fill="#e11d48" fill-opacity="0.10" stroke="#e11d48" stroke-opacity="0.45"/><text x="426.8" y="157.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Active Directory / GPO</text>
+<rect x="517.7" y="140" width="56.5" height="26" rx="13.0" fill="#e11d48" fill-opacity="0.10" stroke="#e11d48" stroke-opacity="0.45"/><text x="545.9" y="157.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Linux</text>
+<rect x="582.2" y="140" width="108.0" height="26" rx="13.0" fill="#e11d48" fill-opacity="0.10" stroke="#e11d48" stroke-opacity="0.45"/><text x="636.2" y="157.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">VMware ESXi</text>
+<rect x="698.2" y="140" width="77.9" height="26" rx="13.0" fill="#e11d48" fill-opacity="0.10" stroke="#e11d48" stroke-opacity="0.45"/><text x="737.1" y="157.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Proxmox</text>
+<rect x="208.7" y="180" width="67.7" height="26" rx="13.0" fill="#e11d48" fill-opacity="0.10" stroke="#e11d48" stroke-opacity="0.45"/><text x="242.5" y="197.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Docker</text>
+<rect x="284.3" y="180" width="39.9" height="26" rx="13.0" fill="#e11d48" fill-opacity="0.10" stroke="#e11d48" stroke-opacity="0.45"/><text x="304.3" y="197.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Git</text>
+<line x1="20" y1="214" x2="810" y2="214" stroke="#d0d7de" stroke-opacity="0.6"/>
+<circle cx="28" cy="233" r="4" fill="#b45309"/>
+<text x="40" y="237.5" font-size="13" font-weight="600" fill="#1f2328">Network &amp; monitoring</text>
+<rect x="208.7" y="220" width="141.4" height="26" rx="13.0" fill="#b45309" fill-opacity="0.10" stroke="#b45309" stroke-opacity="0.45"/><text x="279.4" y="237.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">TCP/IP · LAN/WAN</text>
+<rect x="358.1" y="220" width="87.3" height="26" rx="13.0" fill="#b45309" fill-opacity="0.10" stroke="#b45309" stroke-opacity="0.45"/><text x="401.7" y="237.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Wireshark</text>
+<rect x="453.3" y="220" width="57.6" height="26" rx="13.0" fill="#b45309" fill-opacity="0.10" stroke="#b45309" stroke-opacity="0.45"/><text x="482.1" y="237.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">PRTG</text>
+<rect x="518.9" y="220" width="131.1" height="26" rx="13.0" fill="#b45309" fill-opacity="0.10" stroke="#b45309" stroke-opacity="0.45"/><text x="584.4" y="237.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Zabbix (learning)</text>
+<line x1="20" y1="254" x2="810" y2="254" stroke="#d0d7de" stroke-opacity="0.6"/>
+<circle cx="28" cy="273" r="4" fill="#7c3aed"/>
+<text x="40" y="277.5" font-size="13" font-weight="600" fill="#1f2328">AI &amp; embedded</text>
+<rect x="208.7" y="260" width="96.5" height="26" rx="13.0" fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-opacity="0.45"/><text x="256.9" y="277.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">TensorFlow</text>
+<rect x="313.1" y="260" width="58.4" height="26" rx="13.0" fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-opacity="0.45"/><text x="342.3" y="277.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Keras</text>
+<rect x="379.6" y="260" width="126.9" height="26" rx="13.0" fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-opacity="0.45"/><text x="443.0" y="277.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">Computer vision</text>
+<rect x="514.4" y="260" width="130.1" height="26" rx="13.0" fill="#7c3aed" fill-opacity="0.10" stroke="#7c3aed" stroke-opacity="0.45"/><text x="579.4" y="277.5" font-size="12.5" font-weight="500" text-anchor="middle" fill="#1f2328">FPGA · PYNQ-Z2</text>
+</svg>
