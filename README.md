@@ -29,11 +29,15 @@ I'm an IT engineer who writes software. At **SARL RAMOS**, a printing company in
   <a href="https://github.com/taharabs/it-automation-toolkit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-it-toolkit-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-it-toolkit-light.svg" width="49%" alt="it-automation-toolkit: PowerShell module for AD onboarding and offboarding, disk, backup and network checks, with HTML reports"></picture></a>
 </p>
 <p>
-  <a href="https://taharabs.github.io/wach-ntayab/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-wach-ntayab-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-wach-ntayab-light.svg" width="49%" alt="What should we cook today? Offline-first PWA for Algerian meal planning"></picture></a>
+  <a href="https://github.com/taharabs/homelab-monitoring"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-homelab-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-homelab-light.svg" width="49%" alt="homelab-monitoring: Zabbix 7 lab in Docker with zbxctl, a Python CLI that applies monitoring from YAML, and a CI outage drill"></picture></a>
   <a href="https://techbytahar.vercel.app/UNet.html"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-unet-fpga-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-unet-fpga-light.svg" width="49%" alt="U-Net retinal image segmentation deployed on a PYNQ-Z2 FPGA"></picture></a>
 </p>
+<p>
+  <a href="https://taharabs.github.io/wach-ntayab/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-wach-ntayab-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-wach-ntayab-light.svg" width="49%" alt="What should we cook today? Offline-first PWA for Algerian meal planning"></picture></a>
+  <a href="https://task-manager-snowy-two.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-task-manager-dark.svg"><img src="https://raw.githubusercontent.com/taharabs/taharabs/main/assets/card-task-manager-light.svg" width="49%" alt="Notion-style task manager with board, table, list and calendar views, in plain JavaScript"></picture></a>
+</p>
 
-<sub>Source code: <a href="https://github.com/taharabs/depot-change-monitor">depot-change-monitor</a> · <a href="https://github.com/taharabs/it-automation-toolkit">it-automation-toolkit</a> · <a href="https://github.com/taharabs/wach-ntayab">wach-ntayab</a> · <a href="https://github.com/taharabs/task-manager">task-manager</a> · <a href="https://github.com/taharabs/site">site</a></sub>
+<sub>Source code: <a href="https://github.com/taharabs/depot-change-monitor">depot-change-monitor</a> · <a href="https://github.com/taharabs/it-automation-toolkit">it-automation-toolkit</a> · <a href="https://github.com/taharabs/homelab-monitoring">homelab-monitoring</a> · <a href="https://github.com/taharabs/wach-ntayab">wach-ntayab</a> · <a href="https://github.com/taharabs/task-manager">task-manager</a> · <a href="https://github.com/taharabs/site">site</a></sub>
 
 ### Experience
 
@@ -55,10 +59,9 @@ I'm an IT engineer who writes software. At **SARL RAMOS**, a printing company in
 
 ### Right now
 
-- **Just shipped:** [`depot-change-monitor`](https://github.com/taharabs/depot-change-monitor) (Python, FastAPI, SQL Server) and [`it-automation-toolkit`](https://github.com/taharabs/it-automation-toolkit) (PowerShell, Active Directory)
+- **Just shipped:** [`homelab-monitoring`](https://github.com/taharabs/homelab-monitoring) (Zabbix 7, Python, Docker), after [`depot-change-monitor`](https://github.com/taharabs/depot-change-monitor) and [`it-automation-toolkit`](https://github.com/taharabs/it-automation-toolkit)
 - **Building next:** `unet-retinal-fpga`, the training and FPGA deployment code behind my U-Net project
 - **Certifying:** Microsoft AZ-104 (Azure Administrator), then PL-300 and RHCSA
-- **Learning:** Zabbix monitoring
 - **Completed:** Anthropic courses on the Model Context Protocol, *Claude Code in Action* and *Claude Code 101*
 - **Open to:** roles and projects in infrastructure, automation, DevOps and internal tooling
 

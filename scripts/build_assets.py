@@ -47,6 +47,11 @@ PROJECTS = [
          desc="PowerShell module for Windows admin work: AD onboarding and offboarding, "
               "disk, backup and network checks, HTML reports. 54 tests on PS 5.1 and 7.",
          tags=["PowerShell", "Active Directory", "Pester", "CI"], cta="View the code"),
+    dict(slug="homelab", color="amber", label="MONITORING · INFRA AS CODE",
+         title="homelab-monitoring",
+         desc="Zabbix 7 lab in Docker plus zbxctl, a Python CLI that applies hosts, web checks "
+              "and alerts from YAML. CI runs a real outage drill.",
+         tags=["Zabbix", "Python", "Docker", "GitHub Actions"], cta="View the code"),
     dict(slug="wach-ntayab", color="green", label="PWA · OFFLINE-FIRST", arabic="واش نطيبو اليوم؟",
          title="What should we cook today?",
          desc="Offline-first PWA that plans the day's Algerian meals from the ingredients at home. "
@@ -57,6 +62,11 @@ PROJECTS = [
          desc="Retinal image segmentation trained in TensorFlow/Keras and deployed "
               "on a Xilinx PYNQ-Z2 board (CDTA research internship).",
          tags=["TensorFlow", "Keras", "Python", "PYNQ-Z2"], cta="Read the write-up"),
+    dict(slug="task-manager", color="blue", label="WEB APP · NO DEPENDENCIES",
+         title="Notion-style task manager",
+         desc="Board, table, list and calendar views over the same tasks, with a built-in "
+              "assistant. Plain JavaScript, runs entirely in the browser.",
+         tags=["JavaScript", "HTML / CSS", "LocalStorage", "Vercel"], cta="Live demo"),
 ]
 
 STACK = [
@@ -65,7 +75,7 @@ STACK = [
     ("Data", "green", ["SQL Server", "PostgreSQL", "MySQL", "MongoDB", "Oracle", "SQLite"]),
     ("Infrastructure", "rose", ["Windows Server", "Active Directory / GPO", "Linux", "VMware ESXi",
                                 "Proxmox", "Docker", "Git"]),
-    ("Network & monitoring", "amber", ["TCP/IP · LAN/WAN", "Wireshark", "PRTG", "Zabbix (learning)"]),
+    ("Network & monitoring", "amber", ["TCP/IP · LAN/WAN", "Wireshark", "PRTG", "Zabbix"]),
     ("AI & embedded", "purple", ["TensorFlow", "Keras", "Computer vision", "FPGA · PYNQ-Z2"]),
 ]
 
